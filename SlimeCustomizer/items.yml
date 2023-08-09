@@ -1,0 +1,282 @@
+DGNZG:
+  category: gdqtdgj
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: DGNZG
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: GRAPPLING_HOOK
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: GRAPPLING_HOOK
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: GRANDPAS_WALKING_STICK
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: VANILLA
+      id: ARROW
+      amount: 1
+    8:
+      type: NONE
+      id: N/A
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: GRANDPAS_WALKING_STICK
+      amount: 1
+DZGDJ:
+  category: gdqtdgj
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: DZGDJ
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      type: VANILLA
+      id: NETHERITE_SWORD
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: COBALT_INGOT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: GRANDPAS_WALKING_STICK
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: COBALT_INGOT
+      amount: 1
+    7:
+      type: VANILLA
+      id: DIAMOND
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: GRAPPLING_HOOK
+      amount: 1
+    9:
+      type: VANILLA
+      id: DIAMOND
+      amount: 1
+QHDZF:
+  category: gdqtdgj
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: QHDZF
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: SEISMIC_AXE
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+MS66:
+  category: gdqtdgj
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: MS66
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: VANILLA
+      id: FEATHER
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: VANILLA
+      id: BRICK
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: VANILLA
+      id: STICK
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+XJMS66:
+  category: gdqtdgj
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: XJMS66
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: NONE
+      id: N/A
+      amount: 1
+    2:
+      type: VANILLA
+      id: FEATHER
+      amount: 1
+    3:
+      type: NONE
+      id: N/A
+      amount: 1
+    4:
+      type: NONE
+      id: N/A
+      amount: 1
+    5:
+      type: VANILLA
+      id: NETHER_BRICK
+      amount: 1
+    6:
+      type: NONE
+      id: N/A
+      amount: 1
+    7:
+      type: NONE
+      id: N/A
+      amount: 1
+    8:
+      type: VANILLA
+      id: STICK
+      amount: 1
+    9:
+      type: NONE
+      id: N/A
+      amount: 1
+MRF:
+  category: gdqtdgj
+  item-type: SAVEDITEM
+  item-name: ""
+  item-lore:
+  - ""
+  item-id: MRF
+  item-amount: 1
+  placeable: false
+  crafting-recipe-type: ENHANCED_CRAFTING_TABLE
+  crafting-recipe:
+    1:
+      type: SLIMEFUN
+      id: NETHERITE_BLOCK
+      amount: 1
+    2:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    3:
+      type: SLIMEFUN
+      id: NETHERITE_BLOCK
+      amount: 1
+    4:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    5:
+      type: SLIMEFUN
+      id: NETHERITE_BLOCK
+      amount: 1
+    6:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    7:
+      type: SLIMEFUN
+      id: NETHERITE_BLOCK
+      amount: 1
+    8:
+      type: SLIMEFUN
+      id: REINFORCED_ALLOY_INGOT
+      amount: 1
+    9:
+      type: SLIMEFUN
+      id: NETHERITE_BLOCK
+      amount: 1
